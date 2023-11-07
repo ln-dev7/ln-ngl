@@ -17,7 +17,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-5 sm:px-10 md:px-12 lg:px-5 space-y-12">
           <div className="max-w-2xl flex flex-col items-start gap-4">
             <h1 className="font-bold text-gray-800  text-3xl">
-              Réponses de LN sur NGL
+              Réponses de LN sur “ NGL ”
             </h1>
             <Link
               className="bg-sky-400 hover:bg-sky-500 duration-300 rounded-full px-8 py-2 flex items-center justify-center"
@@ -33,17 +33,19 @@ export default function Home() {
                   key={index}
                   className="h-fit p-5 md:p-6 space-y-6 rounded-lg bg-white  border border-gray-100  shadow-2xl shadow-gray-100/70 hover:border-sky-400"
                 >
-                  <p className="font-medium text-gray-700 ">
+                  <p className="font-medium text-md text-gray-700 ">
                     “ {ngl.question} ”
                   </p>
                   <div className="flex items-start gap-4">
+                    <div className="border-2 border-red-200 rounded-full flex items-center justify-center">
                     <Image
                       src="/ln.jpg"
                       width={1900}
                       height={1200}
                       alt="Author avatar"
-                      className="w-12 h-12 rounded-full flex object-cover"
+                      className="w-9 h-9 rounded-full flex object-cover"
                     />
+                    </div>
                     <div className="space-y-1 flex-1 bg-slate-50 p-4 rounded-md">
                       <p className="text-gray-600 ">{ngl.response}</p>
                     </div>
