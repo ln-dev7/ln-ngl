@@ -14,7 +14,7 @@ export const ngl = [
   {
     question:
       "Je te suit depuis. Mais tu n'est pas dispo pour être mon mentor...",
-    response: "honnêtement je suis pas assez organisé pour être une mentor :(",
+    response: "honnêtement je suis pas assez organisé pour être un mentor :(",
   },
   {
     question: "Bonsoir Léo. On fait comment pour coder comme toi?",
