@@ -14,11 +14,11 @@ export const ngl = [
   {
     question:
       "Je te suit depuis. Mais tu n'est pas dispo pour être mon mentor...",
-    response: "Honnetement je suis pas assez organisé pour être une mentor :(",
+    response: "honnêtement je suis pas assez organisé pour être une mentor :(",
   },
   {
     question: "Bonsoir Léo. On fait comment pour coder comme toi?",
-    response: "Je pense qu'il faut juste coder chaque jour",
+    response: "Je pense qu'il faut juste coder chaque jour et avoir une bonne roadmap d'où on va.",
   },
   {
     question: "Tu es une inspiration jeune homme",
@@ -27,11 +27,11 @@ export const ngl = [
   {
     question:
       "J'aimerais vraiment commemcer à apprendre le dev mais je ne sais pas par où commencer et j'hésite à te dm.",
-    response: "Ah viens n'hesite surtout pas à me dm.",
+    response: "Ah ... n'hésite surtout pas à me dm :)",
   },
   {
     question: "je peux être très honnête avec toi ici ?",
-    response: "Oui oui sans soucis",
+    response: "Oui oui, sans soucis",
   },
   {
     question: "how many hours of sleep you get last night? ",
@@ -44,22 +44,22 @@ export const ngl = [
   {
     question:
       "Est-tu parfois effrayé par l'idée qu'un jour tu te feras remplacer par une IA ",
-    response: "Oui, des fois mais apres je me dis que c'est mieux de vivre le present et de profiter de la facilité que l'IA nous apporte",
+    response: "Oui, des fois mais après je me dis que c'est mieux de vivre le présent et de profiter de la facilité que l'IA nous apporte en tant que Dev.",
   },
   {
     question:
       "Quel est votre vision dans le monde dev? Genre dans 5 ans tu penses migrer dans d'autres secteurs où y rester ?",
-    response: "Honnetement je ne sais pas 😅, Je me projette pas vraiment dans le futur, Je vis l'instant present mais j'imagine des fois me plonger un peu plus dans le design et/ou tout ce qui concerne l'IA",
+    response: "honnêtement je ne sais pas 😅, Je me projette pas vraiment dans le futur, Je vis l'instant présent mais j'imagine des fois me plonger un peu plus dans le design et/ou tout ce qui concerne l'IA",
   },
   {
     question:
       "Comment tu fais pour que t'es clients respectent ton travail sachant que le free-lance vivant en Afrique ne sont pas tellement respecté ",
-    response: "Je sais pas trop quoi dire, moi perso j'ai jamais remarqué du manque de respect",
+    response: "Je sais pas trop quoi dire, moi perso j'ai jamais remarqué du manque de respect.",
   },
   {
     question:
       "Comment tu fais pour exercer ton activité de free-lance,tu proposes de services sur de plateforme ou aux alentours ?",
-    response: "C'est plus des contacts via les réseaux et du bouche à oreille.",
+    response: "C'est plus des contacts via les réseaux sociaux et du bouche à oreille.",
   },
   {
     question: "Tu as quitté mboa digital ou tu y travailles toujours ? ",
@@ -76,11 +76,11 @@ export const ngl = [
   },
   {
     question: "Combien gagne un développeur front-end ?",
-    response: "Je dirais que chacun se vend à son niveau",
+    response: "Je dirais que chacun se vend à son niveau.",
   },
   {
     question: "Tôt ou tard J'aurais ton niveau",
-    response: "Je le souhaite vivement",
+    response: "Je le souhaite vivement.",
   },
   {
     question: "je suis là pour te soutenir 💗",
