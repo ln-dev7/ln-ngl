@@ -1,5 +1,9 @@
 export const ngl = [
   {
+    question: "ton crush c'est.....?",
+    response: "Toi 😊 ( Si tu es une fille )",
+  },
+  {
     question: "Big red flag for a girl ? ",
     response: "Snapscore > 10000 😂",
   },
@@ -18,7 +22,8 @@ export const ngl = [
   },
   {
     question: "Bonsoir Léo. On fait comment pour coder comme toi?",
-    response: "Je pense qu'il faut juste coder chaque jour et avoir une bonne roadmap d'où on va.",
+    response:
+      "Je pense qu'il faut juste coder chaque jour et avoir une bonne roadmap d'où on va.",
   },
   {
     question: "Tu es une inspiration jeune homme",
@@ -44,22 +49,26 @@ export const ngl = [
   {
     question:
       "Est-tu parfois effrayé par l'idée qu'un jour tu te feras remplacer par une IA ",
-    response: "Oui, des fois mais après je me dis que c'est mieux de vivre le présent et de profiter de la facilité que l'IA nous apporte en tant que Dev.",
+    response:
+      "Oui, des fois mais après je me dis que c'est mieux de vivre le présent et de profiter de la facilité que l'IA nous apporte en tant que Dev.",
   },
   {
     question:
       "Quel est votre vision dans le monde dev? Genre dans 5 ans tu penses migrer dans d'autres secteurs où y rester ?",
-    response: "honnêtement je ne sais pas 😅, Je me projette pas vraiment dans le futur, Je vis l'instant présent mais j'imagine des fois me plonger un peu plus dans le design et/ou tout ce qui concerne l'IA",
+    response:
+      "honnêtement je ne sais pas 😅, Je me projette pas vraiment dans le futur, Je vis l'instant présent mais j'imagine des fois me plonger un peu plus dans le design et/ou tout ce qui concerne l'IA",
   },
   {
     question:
       "Comment tu fais pour que t'es clients respectent ton travail sachant que le free-lance vivant en Afrique ne sont pas tellement respecté ",
-    response: "Je sais pas trop quoi dire, moi perso j'ai jamais remarqué du manque de respect.",
+    response:
+      "Je sais pas trop quoi dire, moi perso j'ai jamais remarqué du manque de respect.",
   },
   {
     question:
       "Comment tu fais pour exercer ton activité de free-lance,tu proposes de services sur de plateforme ou aux alentours ?",
-    response: "C'est plus des contacts via les réseaux sociaux et du bouche à oreille.",
+    response:
+      "C'est plus des contacts via les réseaux sociaux et du bouche à oreille.",
   },
   {
     question: "Tu as quitté mboa digital ou tu y travailles toujours ? ",
