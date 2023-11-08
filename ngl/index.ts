@@ -6,20 +6,30 @@
 */
 export const ngl = [
   {
+    question: "A girl friend ur thankful for... ",
+    response: "? 🤔",
+  },
+  {
     question: "You're lndev right? What's your passion for your job?",
-    response: "Yes, i'm lndev, I don't really know what to say, I just really like it.",
+    response:
+      "Yes, i'm lndev, I don't really know what to say, I just really like it.",
   },
   {
     question: "C'est quoi la vie d'un dev?",
-    response: "Je crois que c'est relatif ... et après je comprends pas réellement le sens de la question",
+    response:
+      "Je crois que c'est relatif ... et après je comprends pas réellement le sens de la question",
   },
   {
-    question: "Honnêtement il y a des fois où j'ai envie de coder mais je n'y arrive pas. Pourtant je le dois si je veut avancé. ",
-    response: "C'est pour ça que l'envie ne suffit pas, il faut beaucoup de discipline !",
+    question:
+      "Honnêtement il y a des fois où j'ai envie de coder mais je n'y arrive pas. Pourtant je le dois si je veut avancé. ",
+    response:
+      "C'est pour ça que l'envie ne suffit pas, il faut beaucoup de discipline !",
   },
   {
-    question: "Avant d'être ce Dev fort que tu est... Stp j voudrais connaître ton parcours... Genre à tu commencé pas une formation où tu est un *self taught developer*.. et comment tu à fait pour connaître Mboa...  Am an Anglophone ",
-    response: "C'est un peu long, il y'a un talk sur mon site ou je parle de mon parcours ( https://leonelngoya.com/talks )",
+    question:
+      "Avant d'être ce Dev fort que tu est... Stp j voudrais connaître ton parcours... Genre à tu commencé pas une formation où tu est un *self taught developer*.. et comment tu à fait pour connaître Mboa...  Am an Anglophone ",
+    response:
+      "C'est un peu long, il y'a un talk sur mon site ou je parle de mon parcours ( https://leonelngoya.com/talks )",
   },
   {
     question: "ton crush c'est.....?",
