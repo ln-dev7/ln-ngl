@@ -21,14 +21,14 @@ export default function Home() {
             </h1>
             <div className="w-full flex flex-col sm:flex-row items-center justify-between gap-4 z-40">
               <Link
-                className="w-full sm:w-fit bg-red-400 hover:bg-red-500 duration-300 rounded-lg px-8 py-2 flex items-center justify-center"
+                className="w-full sm:w-fit bg-red-400 hover:bg-red-500 duration-300 rounded-lg px-8 py-2 flex items-center justify-center text-white"
                 target="_blank"
                 href="https://ngl.link/lndev"
               >
                 Pose moi une question
               </Link>
               <Link
-                className="w-full sm:w-fit bg-sky-400 hover:bg-sky-500 duration-300 rounded-lg px-8 py-2 flex items-center justify-center"
+                className="w-full sm:w-fit bg-sky-400 hover:bg-sky-500 duration-300 rounded-lg px-8 py-2 flex items-center justify-center text-white"
                 target="_blank"
                 href="https://twitter.com/ln_dev7"
               >
