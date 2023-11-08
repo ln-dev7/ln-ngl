@@ -5,10 +5,14 @@
 },
 */
 export const ngl = [
-{
+  {
+    question: "on m'a dit qu'il y a des gens qui crush sur toi...",
+    response: "Apparemment, moi même je suis surpris",
+  },
+  {
     question: "Tu as quel MacBook ?",
     response: "MacBook Pro M1 2020",
-},
+  },
   {
     question: "A girl friend ur thankful for... ",
     response: "? 🤔",
