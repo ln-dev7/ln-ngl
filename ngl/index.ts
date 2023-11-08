@@ -10,10 +10,6 @@ export const ngl = [
     response: "MacBook Pro M1 2020",
 },
   {
-    question: "on m'a dit qu'il y a des gens qui crush sur toi...",
-    response: "Apparemment, moi même je suis surpris",
-  },
-  {
     question: "A girl friend ur thankful for... ",
     response: "? 🤔",
   },
