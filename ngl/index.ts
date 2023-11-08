@@ -6,6 +6,16 @@
 */
 export const ngl = [
   {
+    question:
+      "Tu fais des pauses ou te détends en moyenne pendant combien de temps par jour ou semaine ? T’as des jours où tu décides de pas toucher ton clavier ?",
+    response:
+      "Oui oui je me détends régulierement le weekend et souvent en semaine aussi.",
+  },
+  {
+    question: "T'es le goat, tu peux être mon mentor ?",
+    response: "Merciii, j'ai pas vraiment le temps, sorry :/",
+  },
+  {
     question: "on m'a dit qu'il y a des gens qui crush sur toi...",
     response: "Apparemment, moi même je suis surpris",
   },
