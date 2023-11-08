@@ -5,6 +5,10 @@
 },
 */
 export const ngl = [
+{
+    question: "Tu as quel MacBook ?",
+    response: "MacBook Pro M1 2020",
+},
   {
     question: "A girl friend ur thankful for... ",
     response: "? 🤔",
