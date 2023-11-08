@@ -15,16 +15,26 @@ export default function Home() {
           </div>
         </div>
         <div className="max-w-7xl mx-auto px-5 sm:px-10 md:px-12 lg:px-5 space-y-12">
-          <div className="max-w-2xl flex flex-col items-start gap-4">
+          <div className="flex flex-col items-start gap-4">
             <h1 className="font-bold text-gray-800  text-3xl">
-              Réponses de LN sur “ NGL ”
+              Réponses de LN aux questions anonymes
             </h1>
-            <Link
-              className="bg-sky-400 hover:bg-sky-500 duration-300 rounded-full px-8 py-2 flex items-center justify-center"
-              href="https://twitter.com/ln_dev7"
-            >
-              Follow me !
-            </Link>
+            <div className="w-full flex flex-col sm:flex-row items-center justify-between gap-4 z-40">
+              <Link
+                className="w-full sm:w-fit bg-red-400 hover:bg-red-500 duration-300 rounded-lg px-8 py-2 flex items-center justify-center"
+                target="_blank"
+                href="https://ngl.link/lndev"
+              >
+                Pose moi une question
+              </Link>
+              <Link
+                className="w-full sm:w-fit bg-sky-400 hover:bg-sky-500 duration-300 rounded-lg px-8 py-2 flex items-center justify-center"
+                target="_blank"
+                href="https://twitter.com/ln_dev7"
+              >
+                Follow me !
+              </Link>
+            </div>
           </div>
           <div className="relative grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
             {ngl.map((ngl, index) => {
@@ -38,13 +48,13 @@ export default function Home() {
                   </p>
                   <div className="flex items-start gap-4">
                     <div className="border-2 border-red-200 rounded-full flex items-center justify-center">
-                    <Image
-                      src="/ln.jpg"
-                      width={1900}
-                      height={1200}
-                      alt="Author avatar"
-                      className="w-9 h-9 rounded-full flex object-cover"
-                    />
+                      <Image
+                        src="/ln.jpg"
+                        width={1900}
+                        height={1200}
+                        alt="Author avatar"
+                        className="w-9 h-9 rounded-full flex object-cover"
+                      />
                     </div>
                     <div className="space-y-1 flex-1 bg-slate-50 p-4 rounded-md">
                       <p className="text-gray-600 ">{ngl.response}</p>
