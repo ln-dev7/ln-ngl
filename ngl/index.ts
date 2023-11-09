@@ -6,6 +6,10 @@
 */
 export const ngl = [
   {
+    question: "t'en penses quoi si je te proposais un rendez-vous ?",
+    response: "Ça serait un plaisir :)",
+},
+  {
     question:
       "Tu fais des pauses ou te détends en moyenne pendant combien de temps par jour ou semaine ? T’as des jours où tu décides de pas toucher ton clavier ?",
     response:
