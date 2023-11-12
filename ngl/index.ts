@@ -6,6 +6,11 @@
 */
 export const ngl = [
 {
+    question: "Coucou, peux-tu m'aider sur un dossier, je suis à la ramasse. 
+Papi Codeur"
+    response: "Tu peux me dm"
+},
+{
     question: "qui sont tes ex?",
     response: "La liste est longue 😂",
 },
