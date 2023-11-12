@@ -5,6 +5,17 @@
 },
 */
 export const ngl = [
+{
+    question: "qui sont tes ex?",
+    response: "La liste est longue 😂",
+},
+{
+    question: "j'aime ton style",
+    response: "MERCIII❤️"
+},{
+    question: "qu'elle est l'intime selon toi qui te soutient le plus?",
+    response: "Je comprends pas ..."
+},
   {
     question: "t'en penses quoi si je te proposais un rendez-vous ?",
     response: "Ça serait un plaisir :)",
