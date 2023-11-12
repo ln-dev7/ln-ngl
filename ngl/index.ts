@@ -14,7 +14,7 @@ export const ngl = [
     response: "MERCIII❤️"
 },{
     question: "qu'elle est l'intime selon toi qui te soutient le plus?",
-    response: "Je comprends pas ..."
+    response: "Ma mère 😊"
 },
   {
     question: "t'en penses quoi si je te proposais un rendez-vous ?",
